@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acenna.com/</loc>
+    <loc>https://acenna.in/</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#about</loc>
+    <loc>https://acenna.in/#about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#solutions</loc>
+    <loc>https://acenna.in/#solutions</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#technology</loc>
+    <loc>https://acenna.in/#technology</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#products</loc>
+    <loc>https://acenna.in/#products</loc>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#proof</loc>
+    <loc>https://acenna.in/#proof</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://acenna.com/#contact</loc>
+    <loc>https://acenna.in/#contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
