@@ -65,20 +65,20 @@ export default function Hero() {
             {/* Small Eyebrow Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-slate-800/80 border border-slate-700/70 text-brand-400 text-xs font-semibold tracking-wider uppercase mb-6 backdrop-blur-sm shadow-sm">
               <Sparkles className="w-3.5 h-3.5 text-brand-400 animate-pulse" />
-              <span>DATA • AI • TECHNOLOGY</span>
+              <span>DEBT • COLLECTION • RECOVERY</span>
             </div>
 
             {/* Main Headline */}
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white leading-[1.12] mb-6">
-              Where data strategy meets{' '}
+              Where collection strategy meets{' '}
               <span className="bg-gradient-to-r from-brand-400 via-brand-300 to-indigo-300 bg-clip-text text-transparent">
-                execution excellence
+               recovery excellence
               </span>
             </h1>
 
             {/* Supporting Text */}
             <p className="text-lg sm:text-xl text-slate-300 max-w-2xl font-normal leading-relaxed mb-8">
-              Transform your data into measurable business outcomes with modern data strategy, engineering and intelligent technology solutions.
+              We deliver smarter collection and recovery solutions through dedicated professionals, efficient operations, and technology-driven processes. Helping businesses improve collection efficiency, accelerate recoveries, and build stronger customer relationships across India.
             </p>
 
             {/* CTAs */}
@@ -103,22 +103,22 @@ export default function Hero() {
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-6 border-t border-slate-800/80 w-full">
               <div className="h-20 flex flex-col items-center justify-center border border-slate-800/80 rounded-3xl">
                 <div className="text-2xl font-bold text-white tracking-tight">100+</div>
-                <div className="text-xs text-slate-400 mt-0.5">Enterprise Projects</div>
+                <div className="text-xs text-slate-400 mt-0.5">Happy Clients</div>
               </div>
               <div className="h-20 flex flex-col items-center justify-center border border-slate-800/80 rounded-3xl">
-                <div className="text-2xl font-bold text-white tracking-tight">2021</div>
+                <div className="text-2xl font-bold text-white tracking-tight">2019</div>
                 <div className="text-xs text-slate-400 mt-0.5">Founded</div>
               </div>
               <div className="h-20 flex flex-col items-center justify-center border border-slate-800/80 rounded-3xl">
-                <div className="text-2xl font-bold text-white tracking-tight">100+</div>
-                <div className="text-xs text-slate-400 mt-0.5">Tech Specialists</div>
+                <div className="text-2xl font-bold text-white tracking-tight">80+</div>
+                <div className="text-xs text-slate-400 mt-0.5">Collection Professionals</div>
               </div>
               <div className="h-20 flex flex-col items-center justify-center border border-slate-800/80 rounded-3xl">
                 <div className="text-2xl font-bold text-brand-400 tracking-tight flex items-center gap-1">
                   <Globe2 className="w-5 h-5 text-brand-400" />
-                  <span>Global</span>
+                  <span>India</span>
                 </div>
-                <div className="text-xs text-slate-400 mt-0.5">Delivery Centers</div>
+                <div className="text-xs text-slate-400 mt-0.5">Pan India</div>
               </div>
             </div>
           </div>
@@ -147,16 +147,16 @@ export default function Hero() {
               {/* 3 Circular Avatar/Metric Counters at top */}
               <div className="grid grid-cols-3 gap-2.5 mb-5">
                 <div className="bg-slate-800/60 rounded-xl p-2.5 border border-slate-700/50 text-center hover:border-brand-500/40 transition-colors">
-                  <div className="text-base sm:text-lg font-bold text-white tracking-tight">98%</div>
-                  <div className="text-[10px] text-slate-400 leading-tight">Client Retention</div>
+                  <div className="text-base sm:text-lg font-bold text-white tracking-tight">47</div>
+                  <div className="text-[10px] text-slate-400 leading-tight">CITIES</div>
                 </div>
                 <div className="bg-slate-800/60 rounded-xl p-2.5 border border-slate-700/50 text-center hover:border-brand-500/40 transition-colors">
-                  <div className="text-base sm:text-lg font-bold text-brand-400 tracking-tight">10B+</div>
-                  <div className="text-[10px] text-slate-400 leading-tight">Daily Records</div>
+                  <div className="text-base sm:text-lg font-bold text-brand-400 tracking-tight">6000+</div>
+                  <div className="text-[10px] text-slate-400 leading-tight">PINS</div>
                 </div>
                 <div className="bg-slate-800/60 rounded-xl p-2.5 border border-slate-700/50 text-center hover:border-brand-500/40 transition-colors">
-                  <div className="text-base sm:text-lg font-bold text-emerald-400 tracking-tight">4.9/5</div>
-                  <div className="text-[10px] text-slate-400 leading-tight">CSAT Score</div>
+                  <div className="text-base sm:text-lg font-bold text-emerald-400 tracking-tight">80+</div>
+                  <div className="text-[10px] text-slate-400 leading-tight">STAFF</div>
                 </div>
               </div>
 
@@ -193,7 +193,7 @@ export default function Hero() {
               <div className="mt-4 pt-3 border-t border-slate-800/70 flex items-center justify-between text-xs text-slate-400">
                 <div className="flex items-center gap-1.5">
                   <CheckCircle2 className="w-3.5 h-3.5 text-brand-400" />
-                  <span>SOC2 Type II & HIPAA Certified</span>
+                  <span>Pan India II Collection Network</span>
                 </div>
                 <span className="text-[11px] font-mono text-slate-500">v2.6 Multi-Region</span>
               </div>

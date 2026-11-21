@@ -243,7 +243,7 @@ export default function Footer() {
         {/* Bottom Footer Bar */}
         <div className="pt-8 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div>
-            © 2026 Acenna Technologies Inc. All rights reserved.
+           © 2026 Acenna Technology Solutions Pvt. Ltd. All rights reserved.
           </div>
 
           <div className="flex items-center gap-6">
